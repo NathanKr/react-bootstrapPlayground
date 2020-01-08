@@ -1,1 +1,1 @@
-# react-bootstrapPlayground
+check readme for each project

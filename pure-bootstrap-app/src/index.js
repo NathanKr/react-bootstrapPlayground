@@ -1,8 +1,12 @@
+// --- this is used for bootstrap css (no js !!)
+// --- put this BEFORE your css import
+import 'bootstrap/dist/css/bootstrap.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
